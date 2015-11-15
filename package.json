@@ -1,0 +1,28 @@
+{
+  "name": "CondominiumManager",
+  "version": "0.0.0",
+  "description": "Manage your condominium party halls",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "vash": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/victorbernardino/CondominiumManager.git"
+  },
+  "keywords": [
+    "condominium",
+    "nodejs"
+  ],
+  "author": "Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorbernardino/CondominiumManager/issues"
+  },
+  "homepage": "https://github.com/victorbernardino/CondominiumManager"
+}
